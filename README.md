@@ -2,7 +2,7 @@
 
 Bienvenue sur le dépôt de distribution officiel de l'application **ATB Gestion Reçu**. 
 
-Cette application est conçue pour l'écosystème **Wolikhai SuperMarket** afin de simplifier la gestion, l'impression et le suivi des reçus pour ATB.
+Cette application est conçue pour simplifier la gestion, l'impression et le suivi des reçus pour ATB.
 
 ---
 
@@ -26,11 +26,12 @@ Pour installer l'application sur votre ordinateur :
 ---
 
 ## 🛡️ Sécurité et Confidentialité
-Ce dépôt ne contient que les exécutables compilés. Le code source de l'application est la propriété exclusive de **Group Wolikhai**. 
+Ce dépôt ne contient que les exécutables compilés. Le code source de l'application est la propriété exclusive de **ATB GUINEE**. 
 
 Si vous rencontrez un problème technique, veuillez contacter le support :
 - **Auteur** : Ibrahima Kalil Keita
 - **Email** : ibrahiama.kalil.keita@wolikhai.com
+- **Tel** : +224 628 147 518
 
 ---
 
