@@ -30,7 +30,7 @@ Ce dépôt ne contient que les exécutables compilés. Le code source de l'appli
 
 Si vous rencontrez un problème technique, veuillez contacter le support :
 - **Auteur** : Ibrahima Kalil Keita
-- **Email** : ibrahiama.kalil.keita@wolikhai.com
+- **Email** : keitakalil200@gmail.com
 - **Tel** : +224 628 147 518
 
 ---
